@@ -43,7 +43,7 @@ if exist "dist\SidekeyServer.exe" (
   echo.
   echo  文件就在这个文件夹里:   SidekeyServer.exe
   echo  以后直接双击 SidekeyServer.exe 就能启动, 不用再打包。
-  echo  这个 exe 还能拷到别的 Windows 电脑上直接用 (那台不用装 Python)。
+  echo  这个 exe 还能拷到别的 Windows 电脑上直接用 ^(那台不用装 Python^)。
   echo ============================================
 ) else (
   echo  [失败] 没生成 exe。请把上面的报错内容截图发给开发者。
